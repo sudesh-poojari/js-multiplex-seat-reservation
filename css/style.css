@@ -1,0 +1,33 @@
+.seat-row {
+	margin-bottom: 15px;
+}
+
+.seat-row .seat-col,
+.seat-col-def{
+	color: #A5A3A3;
+	cursor: pointer;
+}
+
+/*.seat-row .seat-col:hover{
+	color: #32b725;
+}*/
+
+.seat-row .seat-col.selected,
+.seat-col-selected{
+	color: #32b725;
+}
+
+.seat-row .seat-col.reserved,
+.seat-col-reserved{
+	color: #e30d0d;
+	cursor: default;
+}
+
+.col-b {
+	font-weight: bold;
+}
+
+.error {
+	font-style: italic;
+	color: #ff0000;
+}

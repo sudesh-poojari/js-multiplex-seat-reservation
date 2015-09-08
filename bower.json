@@ -1,0 +1,25 @@
+{
+  "name": "Primaseller Assignment",
+  "version": "0.0.1",
+  "authors": [
+    "Sudesh Poojari <sud3sh.p00jari@gmail.com>"
+  ],
+  "description": "Primaseller Assignment",
+  "main": "app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootstrap-material-design": "~0.3.0",
+    "jquery": "~2.1.4"
+  }
+}
